@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
-    <string name="app_name">HelloMoon</string>
+    <string name="app_name">Привет, луна</string>
     <string name="hellomoon_play">Старт</string>
 	<string name="hellomoon_stop">Стоп</string>
 	<string name="hellomoon_description">Нил Армстронг ступает на луну</string>
